@@ -3,6 +3,16 @@
 
 
 
+
+
+- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend. **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma**
+
+- 🖥️ I’m currently working on React.js, Typescript and Redux for frontend development. **React.js, Typescript and Redux**
+
+- 🛠️ I’m currently learning Prisma, Next.js **Prisma, Next.js**
+
+- 💬 Ask me about Back-End (Node, Express, MongoDB, PostgreSQL). **Node, Express, MongoDB, PostgreSQL**
+
 - 👨‍💻 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
 
 - 📫 How to reach me [Email](shams30200@gmail.com)
@@ -111,5 +121,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
+
 
 
