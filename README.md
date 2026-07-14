@@ -3,15 +3,9 @@
 
 
 
-- My First Project. Its Only Frontend [Web-App](my-web-application-230830200005.surge.sh)
+- 👨‍💻 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
 
-- 🌱 I’m currently learning **Prisma,Next.js**
-
-- This project is only booking technician. Its only backend [Fix-It-Now](https://vercel.com/shamsuzzamans-projects/fix-it-now/bzuTh41JiG4N9nVFqgCg5WvwQ6c6)
-
-- 👨‍💻 My Portfolio [chipper-kitten-12e012.netlify.app](chipper-kitten-12e012.netlify.app)
-
-- 📫 How to reach me **shams30200@gmail.com**
+- 📫 How to reach me [Email](shams30200@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -117,4 +111,5 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
+
 
