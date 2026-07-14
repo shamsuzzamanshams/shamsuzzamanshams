@@ -5,13 +5,13 @@
 
 
 
-- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend. **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma**
+- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend. 
 
-- 🖥️ I’m currently working on React.js, Typescript and Redux for frontend development. **React.js, Typescript and Redux**
+- 🖥️ I’m currently working on React.js, Typescript for frontend development. 
 
-- 🛠️ I’m currently learning Prisma, Next.js **Prisma, Next.js**
+- 🛠️ I’m currently learning Prisma, Next.js 
 
-- 💬 Ask me about Back-End (Node, Express, MongoDB, PostgreSQL). **Node, Express, MongoDB, PostgreSQL**
+- 💬 Ask me about Back-End (Node, Express, MongoDB, PostgreSQL). 
 
 - 👨‍💻 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
 
