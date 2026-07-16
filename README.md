@@ -1,126 +1,181 @@
 <h1 align="center">Hi 👋, I'm Shamsuzzaman</h1>
-<h3 align="center">Passionate Backend Developer | TypeScript | Intarested In Full-Stack Developer</h3>
 
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+TypeScript;React+%7C+Next.js+Developer;MongoDB+%7C+PostgreSQL+%7C+Prisma;Always+Learning+New+Technologies" alt="Typing SVG" />
+</h3>
 
-
-
-
-- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend. 
-
-- 🖥️ I’m currently working on React.js, Typescript for frontend development. 
-
-- 🛠️ I’m currently learning Prisma, Next.js 
-
-- 💬 Ask me about Back-End (Node, Express, MongoDB, PostgreSQL). 
-
-- 👨‍💻 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
-
-- 📫 How to reach me [Email](shams30200@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shamsuzzaman shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamsuzzaman shams" height="30" width="40" /></a>
-<a href="https://fb.com/shamsuzzaman shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamsuzzaman shams" height="30" width="40" /></a>
-<a href="https://instagram.com/shamsuzzaman shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamsuzzaman shams" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/steam_rose_88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="steam_rose_88" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shams30200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shams30200" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shamsuzzaman_shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shamsuzzaman_shams" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shamsuzzaman_shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamsuzzaman_shams" height="30" width="40" /></a>
-<a href="https://discord.gg/shams032279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shams032279" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="left">TECHNOLOGY STACK:</h3>
+---
 
-<h4>💻 Languages</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+## 🙋‍♂️ More About Me
+
+<table>
+<tr>
+
+<td width="55%">
+
+### 🚀 About Me
+
+- 💼 Backend Developer passionate about building scalable web applications.
+- 🌱 Currently learning **Next.js**, **Prisma**, and **System Design**.
+- ⚡ Backend Stack: **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
+- 💻 Frontend Stack: **React.js, TypeScript**
+- 🤝 Looking to collaborate on Open Source projects.
+- 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
+- 📫 Email: **shams30200@gmail.com**
+- 🌐 Portfolio: **https://chipper-kitten-12e012.netlify.app**
+- 📖 Fun Fact: I enjoy learning new technologies and solving coding problems.
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:shams30200@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
-<h4>🎨 CSS Frameworks & Libraries</h4>
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
 </p>
 
-<h4>⚛️ JavaScript Frameworks & Libraries</h4>
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-<h4>🗄️ Database & ORM</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma ORM" width="40" height="40"/>
-  </a>
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h4>🚀 Deployment Platforms</h4>
-<p align="left">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-  </a>
-  <a href="https://surge.sh/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/10966115?s=200&v=4" alt="Surge" width="40" height="40"/>
-  </a>
+## Database & ORM
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
-<h4>🎨 Design & Graphics</h4>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,figma" />
 </p>
 
-<h4>🛠️ Tools & Technologies</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| **FixItNow** | Home Service Booking Platform | Node.js, Express, Prisma, PostgreSQL |
+| **Portfolio Website** | Personal Portfolio | React, TypeScript |
+| **Blog API** | REST API with Authentication | Node.js, MongoDB |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ☕ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</h3>
