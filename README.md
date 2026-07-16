@@ -33,9 +33,14 @@
 
 <td width="45%">
 
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+import '@lottiefiles/dotlottie-react';
 
+<dotlottie-wc
+  src="https://lottie.host/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json"
+  autoplay
+  loop
+  style={{ width: 300, height: 300 }}
+/>
 </td>
 
 </tr>
