@@ -33,7 +33,7 @@
 
 <td width="45%">
 
-<img  src="https://lottie.host/embed/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json" width="350"/>
+<img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlOGlpODN3eXpsOWxzemJ2NDZrY28wOWpnMzJnbHF5aGk0bHRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YJ8QRkrfi85lufnRQ9/giphy.gif" width="350"/>
 <!-- <iframe src="https://lottie.host/embed/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json"></iframe> -->
 </td>
 
