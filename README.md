@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://facebook.com/shamsuzzaman.shams" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/shamsuzzaman_shams" target="_blank">
