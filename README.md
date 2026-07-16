@@ -33,7 +33,8 @@
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/> -->
+<iframe src="https://lottie.host/embed/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json"></iframe>
 </td>
 
 </tr>
