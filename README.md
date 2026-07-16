@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/Yshamsuzzaman shams" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -54,11 +54,9 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+
+<a href="https://instagram.com/Yshamsuzzaman shams" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
@@ -66,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+<a href="https://facebook.com/shamsuzzaman shams" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"/>
 </a>
 
