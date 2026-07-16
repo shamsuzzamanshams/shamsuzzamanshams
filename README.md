@@ -42,24 +42,46 @@
 
 ---
 
-# 🌐 Connect With Me
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/shamsuzzaman-shams" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://facebook.com/shamsuzzaman.shams" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://instagram.com/shamsuzzaman_shams" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
 <a href="mailto:shams30200@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+
+
+
+<a href="https://www.codechef.com/users/steam_rose_88" target="_blank">
+  <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" />
+</a>
+
+<a href="https://www.hackerrank.com/@shams30200" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" />
+</a>
+
+<a href="https://codeforces.com/profile/shamsuzzaman_shams" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" alt="Codeforces" />
+</a>
+
+<a href="https://leetcode.com/u/shamsuzzaman_shams/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode" />
+</a>
+
+<a href="https://discord.gg/shams032279" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 
 </p>
