@@ -33,14 +33,7 @@
 
 <td width="45%">
 
-import '@lottiefiles/dotlottie-react';
-
-<dotlottie-wc
-  src="https://lottie.host/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json"
-  autoplay
-  loop
-  style={{ width: 300, height: 300 }}
-/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </td>
 
 </tr>
