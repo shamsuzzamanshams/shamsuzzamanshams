@@ -33,7 +33,8 @@
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 
 </td>
 
