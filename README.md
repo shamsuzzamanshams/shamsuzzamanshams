@@ -161,7 +161,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shamsuzzamanshams&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -191,7 +191,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=shamsuzzamanshams&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
