@@ -25,7 +25,7 @@
 - 💻 Frontend Stack: **React.js, TypeScript**
 - 🤝 Looking to collaborate on Open Source projects.
 - 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
-- 📫 How to reach me [Email] (shams30200@gmail.com)
+- 📫 Email (shams30200@gmail.com)
 - 🌐 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
 - 📖 Fun Fact: I enjoy learning new technologies and solving coding problems.
 
