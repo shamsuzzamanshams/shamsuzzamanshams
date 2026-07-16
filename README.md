@@ -20,13 +20,13 @@
 ### 🚀 About Me
 
 - 💼 Backend Developer passionate about building scalable web applications.
-- 🌱 Currently learning **Next.js**, **Prisma**, and **System Design**.
+- 🌱 Currently learning **Next.js**, **Prisma**.
 - ⚡ Backend Stack: **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
 - 💻 Frontend Stack: **React.js, TypeScript**
 - 🤝 Looking to collaborate on Open Source projects.
 - 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
-- 📫 Email: **shams30200@gmail.com**
-- 🌐 Portfolio: **https://chipper-kitten-12e012.netlify.app**
+- 📫 How to reach me [Email] (shams30200@gmail.com)
+- 🌐 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
 - 📖 Fun Fact: I enjoy learning new technologies and solving coding problems.
 
 </td>
