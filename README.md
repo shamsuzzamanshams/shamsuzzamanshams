@@ -33,7 +33,7 @@
 
 <td width="45%">
 
-<img  src="https://i.ibb.co/TBDD1V7P/codeing.gif" width="250"/>
+<img  src="assetcodeing.gif" width="350"/>
 <!-- <iframe src="https://lottie.host/embed/60dd51bb-d61d-4555-95c7-382fb4f0f7ab/6BhDahCztb.json"></iframe> -->
 </td>
 
