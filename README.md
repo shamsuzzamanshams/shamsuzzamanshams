@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shamsuzzamanshams/" target="_blank">
+<a href="https://www.linkedin.com/in/shamsuzzamanshams/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
