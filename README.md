@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/shamsuzzamanshams" target="_blank">
+<a href="www.linkedin.com/in/shamsuzzamanshams/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -125,7 +125,7 @@
 
 | Project | Description | Tech | Live Link|
 |----------|-------------|------|---------|
-| **FixItNow** |  Technician Booking and Hiring System | Next.js, Node.js, Express, Prisma, PostgreSQL | https://fix-it-now-front-end.vercel.app
+| **FixItNow** |  Technician Booking and Hiring System | Next.js, Node.js, Express, Prisma, PostgreSQL | [Live Demo](https://fix-it-now-front-end.vercel.app)
 
 ---
 
