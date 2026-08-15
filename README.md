@@ -46,11 +46,11 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/shamsuzzamanshams/" target="_blank">
+<a href="https://www.linkedin.com/in/shamsuzzamanshams/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:shams30200@gmail.com">
+<a href="shams30200@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
