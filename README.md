@@ -123,11 +123,9 @@
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| **FixItNow** | Home Service Booking Platform | Node.js, Express, Prisma, PostgreSQL |
-| **Portfolio Website** | Personal Portfolio | React, TypeScript |
-| **Blog API** | REST API with Authentication | Node.js, MongoDB |
+| Project | Description | Tech | Live Link|
+|----------|-------------|------|---------|
+| **FixItNow** |  Technician Booking and Hiring System | Node.js, Express, Prisma, PostgreSQL | https://fix-it-now-front-end.vercel.app
 
 ---
 
