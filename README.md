@@ -26,7 +26,7 @@
 - 🤝 Looking to collaborate on Open Source projects.
 - 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
 - 📫 Email [Email](shams30200@gmail.com)
-- 🌐 My Portfolio [Portfolio](chipper-kitten-12e012.netlify.app)
+- 🌐 My Portfolio [Portfolio](https://portfolio-frondend-pi.vercel.app)
 - 📖 Fun Fact: I enjoy learning new technologies and solving coding problems.
 
 </td>
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/Yshamsuzzaman shams" target="_blank">
+<a href="www.linkedin.com/in/shamsuzzamanshams" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -56,7 +56,7 @@
 
 
 
-<a href="https://instagram.com/Yshamsuzzaman shams" target="_blank">
+<a href="https://www.instagram.com/shamsuzzaman.shams/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
@@ -64,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
-<a href="https://facebook.com/shamsuzzaman shams" target="_blank">
+<a href="https://www.facebook.com/shamsuzzaman.shams.39" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"/>
 </a>
 
