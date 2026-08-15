@@ -25,7 +25,7 @@
 - 💻 Frontend Stack: **React.js, TypeScript**
 - 🤝 Looking to collaborate on Open Source projects.
 - 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
-- 📫 Email [shams30200@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=shams30200@gmail.com)
+- 📫 Email [Email](https://mail.google.com/mail/?view=cm&fs=1&to=shams30200@gmail.com)
 - 🌐 My Portfolio [Portfolio](https://portfolio-frondend-pi.vercel.app)
 - 📖 Fun Fact: I enjoy learning new technologies and solving coding problems.
 
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shams30200@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
