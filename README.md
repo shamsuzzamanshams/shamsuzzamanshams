@@ -125,7 +125,7 @@
 
 | Project | Description | Tech | Live Link|
 |----------|-------------|------|---------|
-| **FixItNow** |  Technician Booking and Hiring System | Node.js, Express, Prisma, PostgreSQL | https://fix-it-now-front-end.vercel.app
+| **FixItNow** |  Technician Booking and Hiring System | Next.js, Node.js, Express, Prisma, PostgreSQL | https://fix-it-now-front-end.vercel.app
 
 ---
 
